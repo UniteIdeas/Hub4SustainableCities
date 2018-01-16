@@ -1,7 +1,7 @@
 # Hub4SustainableCities
 An international knowledge hub aiming to accelerate buildings and cities transition to green.
 
-**A collaborative project of:
+A collaborative project of:
 
 * Construction21
 
@@ -16,7 +16,7 @@ An international knowledge hub aiming to accelerate buildings and cities transit
 * China Academy of Building Research (CABR)
 
 * [Unite Ideas](https://ideas.unite.un.org)
-** 
+
 
 More information at the [project wiki.](https://github.com/UniteIdeas/Hub4SustainableCities/wiki)
 
