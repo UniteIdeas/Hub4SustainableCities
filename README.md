@@ -1,4 +1,6 @@
 # Hub4SustainableCities
+![Hub4SustainableCities](https://cloud.ciridd.org/index.php/s/ejpRaiPSmGH1dwE/download)
+
 An international knowledge hub aiming to accelerate buildings and cities transition to green.
 
 A collaborative project of:
